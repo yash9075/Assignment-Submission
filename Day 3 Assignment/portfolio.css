@@ -82,6 +82,7 @@
      width: 400px;
      max-width: 100%;
      position: relative;
+     display: inline-block;
  }
  .newsletter form input:first-child {
    width: 100%;
@@ -108,10 +109,7 @@
 
  .share{
      display: inline-block;
-     position:fixed;
-     bottom: 10px;
-     right:40px;
-     left:1038px;
+     margin-left: 200px;    
      
  }
 
